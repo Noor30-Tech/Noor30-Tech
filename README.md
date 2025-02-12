@@ -1,6 +1,4 @@
 
-
-
  Project Overview This project applies machine learning techniques to predict whether users will accept coupons based on driving scenarios and user attributes. By analyzing factors such as destination, time, weather, passengers, and coupon details, the model helps optimize coupon distribution strategies, enhancing user engagement on e-commerce platforms.
 
 📊 Dataset The dataset contains various attributes: User Attributes → Age, occupation, income, etc. Driving Scenarios → Destination, time, weather, passengers. Coupon Features → Type, discount percentage, validity. Contextual Factors → Past coupon usage, user behavior. Target Variable → Accepted_Coupon (Yes/No).
